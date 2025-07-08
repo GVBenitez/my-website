@@ -1,0 +1,6 @@
+site_name: Gabe Benitez Website
+
+nav:
+  - Home: index.md
+  - About: About.md
+theme: readthedocs    
